@@ -1,0 +1,10 @@
+C:\Users\brand\source\repos\Colas First In First Off (FIFO)\Colas First In First Off (FIFO)\obj\Debug\Colas First In First Off (FIFO).csprojResolveAssemblyReference.cache
+C:\Users\brand\source\repos\Colas First In First Off (FIFO)\Colas First In First Off (FIFO)\obj\Debug\Colas_First_In_First_Off__FIFO_.Form1.resources
+C:\Users\brand\source\repos\Colas First In First Off (FIFO)\Colas First In First Off (FIFO)\obj\Debug\Colas_First_In_First_Off__FIFO_.Properties.Resources.resources
+C:\Users\brand\source\repos\Colas First In First Off (FIFO)\Colas First In First Off (FIFO)\obj\Debug\Colas First In First Off (FIFO).csproj.GenerateResource.Cache
+C:\Users\brand\source\repos\Colas First In First Off (FIFO)\Colas First In First Off (FIFO)\obj\Debug\Colas First In First Off (FIFO).csproj.CoreCompileInputs.cache
+C:\Users\brand\source\repos\Colas First In First Off (FIFO)\Colas First In First Off (FIFO)\bin\Debug\Colas First In First Off (FIFO).exe.config
+C:\Users\brand\source\repos\Colas First In First Off (FIFO)\Colas First In First Off (FIFO)\bin\Debug\Colas First In First Off (FIFO).exe
+C:\Users\brand\source\repos\Colas First In First Off (FIFO)\Colas First In First Off (FIFO)\bin\Debug\Colas First In First Off (FIFO).pdb
+C:\Users\brand\source\repos\Colas First In First Off (FIFO)\Colas First In First Off (FIFO)\obj\Debug\Colas First In First Off (FIFO).exe
+C:\Users\brand\source\repos\Colas First In First Off (FIFO)\Colas First In First Off (FIFO)\obj\Debug\Colas First In First Off (FIFO).pdb
